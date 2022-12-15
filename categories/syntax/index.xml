@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syntax on 杨杨个人博客</title>
+    <link>https://yang.github.io/categories/syntax/</link>
+    <description>Recent content in syntax on 杨杨个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>除非特别声明，本站采用</copyright>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yang.github.io/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>https://yang.github.io/post/my-first-blog/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yang.github.io/post/my-first-blog/</guid>
+      <description>&lt;p&gt;文章仅作为示例，内容来源于Sample艾瑞咨询：2022年中国半导体IC产业研究报告&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

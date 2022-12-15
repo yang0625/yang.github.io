@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready text-sm lg:text-base"
+  style="--bg: #faf6f1"
+  lang="zh-CN"
+>
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>My First Blog - 杨杨个人博客</title>
+
+  
+  <meta name="theme-color" />
+  
+  <meta name="description" content="文章仅作为示例，内容来源于Sample艾瑞咨询：2022年中国半导体IC产业研究报告" />
+  <meta
+    name="author"
+    content="Christina"
+  />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://yang.github.io/main.min.css" />
+
+  
+  <script
+    defer
+    src="https://yang.github.io/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+   
+  <link rel="preload" as="image" href="https://yang.github.io/theme.png" />
+
+  
+  
+  
+  <link rel="preload" as="image" href="https://www.gravatar.com/avatar/ef333c1203724d1cb48104b2679529bb?s=160&amp;d=identicon" />
+  
+  
+
+  
+  <link rel="preload" as="image" href="https://yang.github.io/twitter.svg" />
+  
+  <link rel="preload" as="image" href="https://yang.github.io/github.svg" />
+  
+  <link rel="preload" as="image" href="https://yang.github.io/instagram.svg" />
+  
+
+  
+  <link rel="icon" href="https://yang.github.io/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://yang.github.io/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.107.0">
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="My First Blog" />
+<meta property="og:description" content="Sample article showcasing basic Markdown syntax and formatting for HTML elements." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://yang.github.io/post/my-first-blog/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2022-12-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-12-10T00:00:00+00:00" />
+
+
+
+  
+  <meta itemprop="name" content="My First Blog">
+<meta itemprop="description" content="Sample article showcasing basic Markdown syntax and formatting for HTML elements."><meta itemprop="datePublished" content="2022-12-10T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-12-10T00:00:00+00:00" />
+<meta itemprop="wordCount" content="11">
+<meta itemprop="keywords" content="" />
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="My First Blog"/>
+<meta name="twitter:description" content="Sample article showcasing basic Markdown syntax and formatting for HTML elements."/>
+
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-0.5 text-3xl font-bold"
+      href="https://yang.github.io"
+      >杨杨个人博客</a
+    >
+    <a
+      class="btn-dark ml-6 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+    ></a>
+  </div>
+
+  <a
+    class="btn-menu relative z-50 -mr-8 flex h-[5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+  ></a>
+
+  
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = `"#faf6f1"`.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/about/"
+        >About</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/contact/"
+        >Contact</a
+      >
+      
+    </nav>
+    
+
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 dark:invert lg:mt-0 lg:ml-12 lg:items-center lg:space-x-6"
+    >
+      
+      <a
+        class="h-8 w-8 [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./twitter.svg)"
+        href=" https://twitter.com/nanxiaobei "
+        target="_blank"
+      ></a>
+      
+      <a
+        class="h-8 w-8 [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./github.svg)"
+        href=" https://github.com/nanxiaobei "
+        target="_blank"
+      ></a>
+      
+      <a
+        class="h-8 w-8 [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./instagram.svg)"
+        href=" https://instagram.com/nan.xiaobei "
+        target="_blank"
+      ></a>
+      
+    </nav>
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-10rem)] max-w-3xl px-8 pt-20 pb-32 dark:prose-invert"
+    >
+      
+
+<article>
+  <header class="mb-20">
+    <h1 class="!my-0 pb-2.5">My First Blog</h1>
+
+    
+    <div class="text-sm opacity-60">
+      
+      <time>Dec 10, 2022</time>
+      
+      
+      <span class="mx-1">&middot;</span>
+      <span>Christina</span>
+      
+    </div>
+    
+  </header>
+
+  <section><p>文章仅作为示例，内容来源于Sample艾瑞咨询：2022年中国半导体IC产业研究报告</p>
+<h2 id="导语">导语</h2>
+<h3 id="探讨问题1中国如何把握第三次半导体产业转移浪潮">探讨问题1：中国如何把握第三次半导体产业转移浪潮？</h3>
+<p>回顾美国向日本、日本向韩国及中国台湾的两次半导体产业转移历史，政府政策、资金支持、需求变化带来的新兴应用机遇，深刻地影响了全球半导体产业分工布局。我国是承接第三次半导体产业转移最具潜力的市场。未来，中国政府侧、资本侧、厂商侧如何协作努力，共同把握住第三次半导体产业转移浪潮，是需要各方持续探讨的问题。</p>
+<h3 id="探讨问题2中国半导体产业结构是否达到上下协同的规模发展">探讨问题2：中国半导体产业结构是否达到上下协同的规模发展？</h3>
+<p>半导体生态体系依赖于产业链上下游全方位的发展构筑，以此实现上下协同的规模经济。中国半导体IC产业发展需要持续关注产业结构的合理性、各环节进度，聚焦产业链环节的发展瓶颈，持续攻坚卡脖子环节，补齐关键短板，达到产业链协同的规模发展。</p>
+<h3 id="探讨问题3如何看待中国半导体芯片投资热下的长久运行">探讨问题3：如何看待中国半导体/芯片投资热下的长久运行？</h3>
+<p>半导体IC行业一级市场投资热情自2019年以来持续升温，2021年投融资数量创新高达到232起，同比增长45.9%。借助基金加持、政策红利与科创板快船，部分半导体IC企业实现迅速发展并登陆资本市场，但2022年有约半数中国半导体IC企业上市后首日破发，对一级市场投资亦有负面传导。在市场资本跨过盲目期，进入审慎期后，半导体IC企业的长久运营将考验投资者与企业方双向奔赴
+的决心与洞见。</p>
+<h3 id="探讨问题4缺芯潮对中国半导体ic产业的影响未来缺芯是否还会持续">探讨问题4：缺芯潮对中国半导体IC产业的影响？未来缺芯是否还会持续？</h3>
+<p>2020年以来，新冠疫情导致全球晶圆厂开工不足，同时消费电子及新能源汽车市场需求上涨，引发全球范围内的缺芯潮。贸易摩擦与缺芯潮打破部分芯片产品的封闭供应链，让拿到产能的中国芯片企业可以成功进入下游客户的供应商名单，加速国产替代进程。而未来缺芯潮走势，哪些领域持续缺芯，哪些领域得到缓解，将深刻影响着中国芯片厂商的发展进度。</p>
+<p><img src="https://s1.ax1x.com/2022/12/11/zhM029.png" alt="图文无关"></p></section>
+
+  
+  
+
+  
+  
+  
+  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+    
+    <a
+      class="flex w-1/2 items-center p-6 pr-3 no-underline"
+      href="https://yang.github.io/post/rich-content/"
+      ><span class="mr-1.5">←</span><span>Hugo教程</span></a
+    >
+    
+    
+    <a
+      class="ml-auto flex w-1/2 items-center justify-end p-6 pl-3 no-underline"
+      href="https://yang.github.io/post/placeholder-text/"
+      ><span>Placeholder Text</span><span class="ml-1.5">→</span></a
+    >
+    
+  </nav>
+  
+
+  
+  
+</article>
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2022
+    <a class="link" href="https://yang.github.io">杨杨个人博客</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >▷ Paper 6</a
+  >
+</footer>
+
+  </body>
+</html>
