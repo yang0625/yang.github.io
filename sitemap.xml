@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://yang.github.io/</loc>
-    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yang.github.io/post/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yang.github.io/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yang.github.io/about/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
@@ -11,19 +17,7 @@
     <loc>https://yang.github.io/contact/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yang.github.io/post/rich-content/</loc>
-    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yang.github.io/post/</loc>
-    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yang.github.io/tags/privacy/</loc>
-    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yang.github.io/tags/shortcodes/</loc>
-    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yang.github.io/tags/</loc>
+    <loc>https://yang.github.io/post/hugo%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yang.github.io/categories/</loc>
@@ -47,22 +41,6 @@
     <loc>https://yang.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yang.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yang.github.io/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yang.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yang.github.io/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yang.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yang.github.io/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://yang.github.io/tags/</loc>
   </url>
 </urlset>
