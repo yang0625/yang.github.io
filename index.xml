@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杨杨个人博客</title>
-    <link>https://yang.github.io/</link>
+    <link>https://yang0625.github.io/yang.github.io/</link>
     <description>Recent content on 杨杨个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>除非特别声明，本站采用</copyright>
-    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yang0625.github.io/yang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>one and only one</title>
-      <link>https://yang.github.io/post/one-and-only-one/</link>
+      <link>https://yang0625.github.io/yang.github.io/post/one-and-only-one/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://yang.github.io/post/one-and-only-one/</guid>
+      <guid>https://yang0625.github.io/yang.github.io/post/one-and-only-one/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
     
     <item>
       <title>嵌入式音乐</title>
-      <link>https://yang.github.io/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%9F%B3%E4%B9%90/</link>
+      <link>https://yang0625.github.io/yang.github.io/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%9F%B3%E4%B9%90/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://yang.github.io/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%9F%B3%E4%B9%90/</guid>
+      <guid>https://yang0625.github.io/yang.github.io/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%9F%B3%E4%B9%90/</guid>
       <description>使用官方嵌入代码 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://yang.github.io/about/</link>
+      <link>https://yang0625.github.io/yang.github.io/about/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://yang.github.io/about/</guid>
+      <guid>https://yang0625.github.io/yang.github.io/about/</guid>
       <description>我是谁？ 我是一个学习hugo的使用者，希望和大家多多交流。
 我要到哪里去？ 我希望能够学会使用hugo，与大家共同进步。
 如果你想获得更多关于Hugo的信息，请访问Hugo官方网站 Hugo.</description>
@@ -39,29 +39,38 @@
     
     <item>
       <title>Contact</title>
-      <link>https://yang.github.io/contact/</link>
+      <link>https://yang0625.github.io/yang.github.io/contact/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://yang.github.io/contact/</guid>
+      <guid>https://yang0625.github.io/yang.github.io/contact/</guid>
       <description>我的邮箱 yy20020625@qq.com
 我的地址 苏州大学独墅湖校区</description>
     </item>
     
     <item>
       <title>撰写Markdown格式的文章</title>
-      <link>https://yang.github.io/post/my-first-blog/</link>
+      <link>https://yang0625.github.io/yang.github.io/post/my-first-blog/</link>
       <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://yang.github.io/post/my-first-blog/</guid>
+      <guid>https://yang0625.github.io/yang.github.io/post/my-first-blog/</guid>
+      <description>&lt;p&gt;文章仅作为示例，内容来源于Sample艾瑞咨询：2022年中国半导体IC产业研究报告&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>自动化发布测试</title>
+      <link>https://yang0625.github.io/yang.github.io/post/test/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yang0625.github.io/yang.github.io/post/test/</guid>
       <description>&lt;p&gt;文章仅作为示例，内容来源于Sample艾瑞咨询：2022年中国半导体IC产业研究报告&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://yang.github.io/archives/</link>
+      <link>https://yang0625.github.io/yang.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yang.github.io/archives/</guid>
+      <guid>https://yang0625.github.io/yang.github.io/archives/</guid>
       <description></description>
     </item>
     

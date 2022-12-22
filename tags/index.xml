@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 杨杨个人博客</title>
-    <link>https://yang.github.io/tags/</link>
+    <link>https://yang0625.github.io/yang.github.io/tags/</link>
     <description>Recent content in Tags on 杨杨个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>除非特别声明，本站采用</copyright><atom:link href="https://yang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>除非特别声明，本站采用</copyright><atom:link href="https://yang0625.github.io/yang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
